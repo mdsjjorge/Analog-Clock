@@ -62,6 +62,6 @@
 #minute,
 #second {
     transform-origin: 300px 300px;
-    transform: rotate(15deg);
-    transition: transform .5s ease-in-out;
+    /* transform: rotate(15deg); */
+    /* transition: transform .5s ease-in-out; */
 }
